@@ -1,4 +1,4 @@
-Stock_ID,Symbol,Date,Closing Price,Type
+Stock_ID,Ticker,Date,Closing Price,Type
 0,TAN,2024-09-18,41.4500,Solar
 1,TAN,2024-08-30,41.2800,Solar
 2,TAN,2024-07-31,42.1300,Solar
