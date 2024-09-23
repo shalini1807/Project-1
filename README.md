@@ -1,5 +1,7 @@
 # Project-1
 
+Google Dock Slides: https://docs.google.com/presentation/d/13EhRpD_xdp6-QbO2MeH5StNHRBkv2tDqCSI3-IxMKWw/edit#slide=id.g302b1fba684_1_0
+
 API Used: https://www.alphavantage.co/documentation/
 
 Informational Links: 
