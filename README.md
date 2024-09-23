@@ -5,6 +5,8 @@ Google Dock Slides: https://docs.google.com/presentation/d/13EhRpD_xdp6-QbO2MeH5
 API Used: https://www.alphavantage.co/documentation/
 
 Informational Links: 
-https://pv-magazine-usa.com/2024/09/17/solar-jobs-on-the-rise/
-https://www.sciencedirect.com/science/article/abs/pii/S136403212100616X
-https://energycentral.com/news/global-orders-wind-turbines-rise-23-percent-due-chinese-dominance#:~:text=Worldwide%20orders%20for%20onshore%20wind%20turbines%20reached%2091.2,year-on-year%20decline%20in%20both%20the%20U.S.%20and%20Europe.
+1) https://pv-magazine-usa.com/2024/09/17/solar-jobs-on-the-rise/
+2) https://www.sciencedirect.com/science/article/abs/pii/S136403212100616X
+3) https://energycentral.com/news/global-orders-wind-turbines-rise-23-percent-due-chinese-dominance#:~:text=Worldwide%20orders%20for%20onshore%20wind%20turbines%20reached%2091.2,year-on-year%20decline%20in%20both%20the%20U.S.%20and%20Europe.
+4) https://changeoracle.com/2023/01/31/renewables-are-growing-but-is-it-enough-to-stop-climate-change/
+
