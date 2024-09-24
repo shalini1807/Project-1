@@ -2,7 +2,7 @@
 
 This is our submission for Project 1 with Berkeley Data Analytics Boot Camp.
 
-The Notebook files can be found above in this repo.
+The Notebook files can be found above in this repo as well as our Presentation slides.
 
 There are 3 sub folders containing some .csv data files and some figures. The notebooks above will need a file called config.py that contains your api key. The api key will need to be called api_key.
 
