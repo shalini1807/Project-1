@@ -1,5 +1,13 @@
 # Project-1
 
+This is our submission for Project 1 with Berkeley Data Analytics Boot Camp.
+
+The Notebook files can be found above in this repo.
+
+There are 3 sub folders containing some .csv data files and some figures. The notebooks above will need a file called config.py that contains your api key. The api key will need to be called api_key.
+
+Some sources used for this project:
+
 Google Dock Slides: https://docs.google.com/presentation/d/13EhRpD_xdp6-QbO2MeH5StNHRBkv2tDqCSI3-IxMKWw/edit#slide=id.g302b1fba684_1_0
 
 API Used: https://www.alphavantage.co/documentation/
